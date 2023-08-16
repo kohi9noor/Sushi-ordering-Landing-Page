@@ -2,8 +2,6 @@
 
 Welcome to the Sushi Ordering Landing Page repository! This project is designed to provide a simple and user-friendly web page for customers to order sushi online. Whether you're a sushi restaurant owner looking to expand your online presence or a developer wanting to practice your skills, this landing page template can be a great starting point.
 
-![Sushi Ordering Landing Page](screenshot.png)
-
 ## Features
 
 - **Responsive Design:** The landing page is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
